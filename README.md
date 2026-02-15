@@ -2,6 +2,11 @@
 
 A content-based movie recommendation system built using Natural Language Processing (NLP) and Cosine Similarity. This project analyzes movie metadata to recommend similar movies and fetches real-time movie details using the The Movie Database (TMDB) API.
 
+🌐 Live Demo
+
+👉 Deployed & Interactive:
+🔗 https://movie-recommendation-hkkjvmsge4ftakwzdvxpp7.streamlit.app/
+
 📌 Features
 
 ✅ Content-based filtering using NLP
